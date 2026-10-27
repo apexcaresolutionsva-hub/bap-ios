@@ -1,0 +1,14 @@
+{
+  "appId": "com.buybap.app",
+  "appName": "BAP",
+  "webDir": "www",
+  "ios": {
+    "contentInset": "never",
+    "limitsNavigationsToAppBoundDomains": false,
+    "scheme": "BAP"
+  },
+  "plugins": {
+    "SplashScreen": { "launchShowDuration": 800, "backgroundColor": "#0f141b", "showSpinner": false },
+    "StatusBar": { "overlaysWebView": true }
+  }
+}
